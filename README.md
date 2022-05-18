@@ -1,3 +1,8 @@
+## Ссылка на видеорешение [ТЫК](https://drive.google.com/file/d/1pGmkmGYjpBop2bVDhwqqq1Xiwtmphhqg/view)
+
+
+## Задание:
+
 Devtools HW
 
 Сделать скрин видео выполнения задания.
